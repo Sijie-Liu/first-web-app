@@ -8,9 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Jenny and Jay Web App</title>
   </head>
   <body>
-  $END$
+  Houi this is just a static page, and I'm working on setting up the dev env and deployment.
+
+  Love you honey.
   </body>
 </html>
