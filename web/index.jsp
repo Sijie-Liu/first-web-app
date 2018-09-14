@@ -14,5 +14,13 @@
   Houi this is just a static page, and I'm working on setting up the dev env and deployment.
 
   Love you honey.
+
+  <li>
+    Click here to trigger the servlet HelloWorld <a href="hello">HERE</a>
+  </li>
+
+  <li>
+    Call servlet directly <a href="http://ec2-52-26-150-119.us-west-2.compute.amazonaws.com:8080/hello/hello">click me </a>
+  </li>
   </body>
 </html>
